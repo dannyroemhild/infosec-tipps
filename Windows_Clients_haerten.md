@@ -53,4 +53,8 @@ GPO: Computerkonfiguration --> Richtlinien --> Administrative Vorlagen --> Windo
 GPO: Computerkonfiguration --> Richtlinien --> Administrative Vorlagen --> Windows Komponenten --> Suche --> Nicht im Web suchen und keine Webergebnisse in der Suche anzeigen = AKTIVIEREN
 GPO: Computerkonfiguration --> Richtlinien --> Administrative Vorlagen --> Windows Komponenten --> Suche --> Websuche nicht zulassen = AKTIVIEREN
 
+## ISO und andere Image-Files nicht per Explorer-Menü mounten
+
+https://winaero.com/remove-mount-context-menu-windows-10/
+
 
