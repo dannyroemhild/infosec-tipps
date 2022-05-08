@@ -2,6 +2,10 @@
 
 Quellen zur Ausarbeitung einer den Anforderungen angemessenen, sicheren Basiskonfiguration unterschiedlicher Produkte.
 
+## Secure Technical Implementation Guides
+
+* https://www.stigviewer.com/stigs
+
 ## Windows (verschiedene Versionen)
 
 * Microsoft Security Compliance Toolkit 1.0
