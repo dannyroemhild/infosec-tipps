@@ -24,7 +24,7 @@ manage-bde.exe -on C:
 manage-bde.exe -off C:
 manage-bde.exe -status C:
 
-*HINWEIS: Beim Verkauf eines Unternehmenssystem im Windows TPM löschen (in TPM Verwaltungskonsole)
+* HINWEIS: Beim Verkauf eines Unternehmenssystem im Windows TPM löschen (in TPM Verwaltungskonsole)
 
 ## Mitglieder der lokalen Gruppe "Administratoren" verwalten
 

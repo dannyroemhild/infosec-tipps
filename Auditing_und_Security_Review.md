@@ -18,3 +18,13 @@
 
 * PSPKIAudit
     * https://github.com/GhostPack/PSPKIAudit
+
+## SMB Freigaben
+
+* PowerHuntShares
+    * https://www.netspi.com/blog/technical/network-penetration-testing/network-share-permissions-powerhuntshares/
+
+## Website / Domain Security prüfen
+
+* Automated Discovery and Monitoring of Your Entire Network Perimeter
+    * https://www.hardenize.com

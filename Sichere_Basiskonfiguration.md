@@ -58,4 +58,10 @@ Quellen zur Ausarbeitung einer den Anforderungen angemessenen, sicheren Basiskon
 * Windows Server 101: Hardening IIS via Security Control Configuration
 
 	* https://techcommunity.microsoft.com/t5/itops-talk-blog/windows-server-101-hardening-iis-via-security-control/ba-p/329979
-	
+
+## Remote Zugriff
+
+* Remotedesktop Protocol (RDP) - Absicherung für Remote Desktop für Systemadministratoren
+    
+    * https://security.berkeley.edu/education-awareness/securing-remote-desktop-rdp-system-administrators
+	* https://learn.microsoft.com/de-de/windows-server/remote/remote-desktop-services/remote-desktop-gateway-role
