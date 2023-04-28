@@ -9,7 +9,7 @@
 
 ## DKIM und DMARC einrichten
 
-Auf dem Mailgateway ein Zertifikat für die Signierung erstellen für einen passenden 
+Auf dem Mailgateway ein Zertifikat für die Signierung erstellen für einen passenden Eintrag 
 
 https://www.digicomp.ch/blog/2019/02/18/spf-dkim-und-dmarc-verstaendlich-erklaert
 
