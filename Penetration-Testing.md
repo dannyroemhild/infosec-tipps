@@ -15,5 +15,3 @@ https://github.com/leoloobeek/LAPSToolkit
 ## Powerview - PowerShell Tool to gain network situational awareness on Windows domains
 
 https://powersploit.readthedocs.io/en/latest/Recon/
-
-
