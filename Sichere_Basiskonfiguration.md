@@ -65,3 +65,4 @@ Quellen zur Ausarbeitung einer den Anforderungen angemessenen, sicheren Basiskon
     
     * https://security.berkeley.edu/education-awareness/securing-remote-desktop-rdp-system-administrators
 	* https://learn.microsoft.com/de-de/windows-server/remote/remote-desktop-services/remote-desktop-gateway-role
+
