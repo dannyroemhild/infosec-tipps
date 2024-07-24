@@ -23,8 +23,14 @@ Diese Einstellunge sind natürlich nicht vollständig und bringen keine vollkomm
 
 #### Hinweis: Die Einstellungen können, je nach Android Version (dokumentiert mit Android 10 auf einem Android One Smartphone) auch unter einem anderen Menüpunkt zu finden sein.
 
+Einstellungen --> Datenschutz & Sicherheit --> Datenschutz --> Werbung --> Werbe-ID löschen
+
+* Quelle: https://www.heise.de/hintergrund/Missing-Link-Wie-Millionen-Bundesbuerger-kommerziell-auspioniert-werden-9805284.html?seite=all
+
 Einstellungen --> Datenschutz --> Nutzung und Diagnose --> Aus
+
 Einstellungen --> Datenschutz --> Werbung --> Personalisierte Werbung deaktivieren --> aktiviert
+
 Einstellungen --> Datenschutz --> Sperrbildschirm --> Sensible Inhalte nur im entsperrten Zustand anzeigen
 
 Einstellungen --> System --> Sprache und Eingabe --> Erweitert --> Autofill--Dienst --> Automatisches Ausfüllen von Google verwenden --> deaktiviert
